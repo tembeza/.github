@@ -8,11 +8,11 @@ Marketing is the job most founders put off. Tembeza does it for you. Point it at
 
 ## How it works
 
-1. **It reads your product.** Give it a website address or a code repository. It reads what the product does and what it does not claim.
+1. **It reads your product.** Give it a website address, a code repository or a document. It reads what the product really does.
 2. **It writes a marketing brief.** Who the product is for, what to say to them, and what never to say. You read it and correct it before anything is written.
 3. **It drafts your week.** Posts for each platform, each in its own voice and inside that platform's real limits.
 4. **You approve.** You read each post, change it or drop it. Nothing goes out until you say yes.
-5. **It publishes and watches.** Approved posts go out on schedule. Tembeza reads how they did and answers comments for you to approve.
+5. **It publishes and watches.** Approved posts go out on schedule, and Tembeza reads how they did. On the higher plans it also writes replies to comments, and you choose whether it answers the easy ones itself or asks you every time.
 
 ## Who it is for
 

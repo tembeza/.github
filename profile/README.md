@@ -8,7 +8,7 @@ Marketing is the job most founders put off. Tembeza does it for you. Point it at
 - Guides for founders: [tembeza.online/guides](https://tembeza.online/guides/)
 - About: [tembeza.online/about](https://tembeza.online/about/)
 
-Built by Ayinza Technologies Ltd, Kampala, Uganda.
+Built by Ayinza Technologies Ltd.
 
 Find Tembeza on [X](https://x.com/tembezaonline), [LinkedIn](https://www.linkedin.com/company/tembezaonline), [Bluesky](https://bsky.app/profile/tembezaonline.bsky.social), [Instagram](https://www.instagram.com/tembezaonline/), [Threads](https://www.threads.com/@tembezaonline), [TikTok](https://www.tiktok.com/@tembezaonline), [Facebook](https://www.facebook.com/tembezaonline) and [YouTube](https://www.youtube.com/@tembezaonline).
 
